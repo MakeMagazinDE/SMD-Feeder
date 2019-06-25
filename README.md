@@ -10,7 +10,8 @@ Maker Media GmbH
 
 ![Picture](https://github.com/MakeMagazinDE/SMD-Feeder/blob/master/feeder_aufm.JPG)
 
-Bitte beachten Sie den zugehörigen Artikel in **[Make: 3/2019](https://shop.heise.de/katalog/make-03-2019)**.
+Den zugehörigen Artikel finden Sie in **[Make: 3/2019](https://shop.heise.de/katalog/make-03-2019)**.
+Beachten Sie dort die Hinweise zum Zusammenbau.
 
 Es stehen zwei Entwürfe zur Verfügung: **feeder_uni_neu** (wie im Artikel abgebildet) enthält 8-, 12-, und 16-mm-Feeder, **feeder_8mm_neu** enthält nur 8-mm-Feeder mit etwas vereinfachter Bandführung. Die Dateien liegen im CorelDraw- und im DXF-Format (2007, mm) vor.
 
