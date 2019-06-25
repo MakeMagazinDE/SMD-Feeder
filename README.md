@@ -6,7 +6,7 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 
 # SMD-Feeder
 
-### für MaXYposi und andere Bestückungsautomaten
+### für MaXYposi und andere Selbstbau-Bestückungsautomaten
 
 Bitte beachten Sie den Artikel in **[Make: 3/2019](https://shop.heise.de/katalog/make-3-2019)** zum Zusammenbau.
 
