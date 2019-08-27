@@ -15,4 +15,6 @@ Beachten Sie dort die Hinweise zum Zusammenbau.
 
 Es stehen zwei Entwürfe zur Verfügung: **feeder_uni_neu** (wie im Artikel abgebildet) enthält 8-, 12-, und 16-mm-Feeder, **feeder_8mm_neu** enthält nur 8-mm-Feeder mit etwas vereinfachter Bandführung. Die Dateien liegen im CorelDraw- und im DXF-Format (2007, mm) vor.
 
-Achtung: Verwenden Sie 3 mmm starkes Acrylglas (Plexiglas) für den Grundkörper und 2 mm starkes transparentes Acrylglas für die Abdeckung!
+Achtung: Verwenden Sie 3 mmm starkes Acrylglas (Plexiglas) für den Grundkörper und 2 mm starkes transparentes Acrylglas für die Abdeckung.
+
+Zur Ansicht der Datei "transportstift_servo.pdf" (3D-Voransicht) benötigen Sie zwingend den Adobe Acrobat Reader DC. Geben Sie zur Ansicht die 3D-Darstellung frei. Die 3D-Preview funktioniert nicht innerhalb des Browsers!
